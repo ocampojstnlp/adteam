@@ -5,3 +5,34 @@ footer {
     position: sticky;
     bottom: 0;
 }
+
+.section.side-nav {
+    position: sticky;
+    top: 0;
+}
+
+.wrapper {
+    position: sticky!important;
+    top: 0;
+}
+
+.sticky-column {
+    position: relative;
+}
+
+.image-holder {
+    width: 100%;
+}
+
+.image-a-holder {
+    width: 100%;
+    display: inline-block;
+    text-align: center;
+}
+
+.image-holder img {
+    width: 50%;
+    height: auto;
+    max-width: 50%;
+    margin: 0 auto!important;
+}

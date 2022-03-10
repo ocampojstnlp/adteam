@@ -1,0 +1,22 @@
+Admin
+    can add, edit and delete a user
+    can create announcement that would be popuped as the user loggedin
+    can restrict functionalities to users
+    can edit time of in and out of users
+    can edit settings
+    can in and out
+    can send email
+    can view the list of online and ofline
+    can view list of user
+    
+user   
+    can in and out
+    can file a leve 
+    can generate a report
+    make anonymous suggestion, limited on once a day
+
+list of models
+    Admin
+    user
+    setting
+    
