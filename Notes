@@ -13,10 +13,11 @@ user
     can in and out
     can file a leve 
     can generate a report
-    make anonymous suggestion, limited on once a day
+    make anonymous suggestion, limited with once per day
 
 list of models
     Admin
     user
+    user details
     setting
-    
+    attendace
