@@ -1,0 +1,7 @@
+body {
+    position: relative;
+}
+footer {
+    position: sticky;
+    bottom: 0;
+}
